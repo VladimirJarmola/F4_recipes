@@ -1,0 +1,6 @@
+.footer {
+    background: rgb(115 167 202);
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+}
