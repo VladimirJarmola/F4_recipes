@@ -8,7 +8,7 @@
 <blockquote>git clone https://github.com/VladimirJarmola/F4_recipes.git</blockquote>
 
 <h4>3. Переходим в папку проекта:</h4>
-<blockquote>cd F4_recipe</blockquote>
+<blockquote>cd F4_recipes</blockquote>
 
 <h3>4. Запуск backend части проекта:</h3>
 
